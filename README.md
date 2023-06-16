@@ -1,4 +1,4 @@
-# React-Quiz
+# React-Quiz-TS
 
 ![Capture](https://github.com/KayChicken/React-Quiz/assets/105989236/fbc93b27-ea28-428a-bcf5-fd0064134dfb)
 
